@@ -1,15 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/slavalovesfoxes" target="_blank">Slava</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/slavalovesfoxes" target="_blank">Vyacheslav Eremin.</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">I study programming and software engineering at ITMO University.</h3>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vya4eslavv)
-
-# Hello, I'm Vyacheslav Eremin . 
-
-I study programming and software engineering at ITMO University.
-
-![image](https://github.com/user-attachments/assets/275f962c-7441-45f9-b04a-d859e61fabf6)
 
 
 ## 🛠 Skills
