@@ -3,7 +3,7 @@
 <h3 align="center">student, IT news writer from Russia 🇷🇺</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vya4eslavv)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vya4eslavv)
 
 
 
