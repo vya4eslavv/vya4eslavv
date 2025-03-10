@@ -9,6 +9,7 @@
 
 I study programming and software engineering at ITMO University.
 
+![image](https://github.com/user-attachments/assets/275f962c-7441-45f9-b04a-d859e61fabf6)
 
 
 ## 🛠 Skills
