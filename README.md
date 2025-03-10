@@ -3,11 +3,9 @@
 <h3 align="center">I study programming and software engineering at ITMO University.
 </h3> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+study+programming+and+software+engineering+at+ITMO+University+.)
-
-
 ## 🛠 Skills
-C#, Goolang, SQL.
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 <!---
 vya4eslavv/vya4eslavv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
