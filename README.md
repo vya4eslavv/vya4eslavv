@@ -4,8 +4,17 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vya4eslavv)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vya4eslavv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vya4eslavv&layout=compact)
+
+# Hello, I'm Vyacheslav Eremin . 
+
+I study programming and software engineering at ITMO University.
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
 
 
 
