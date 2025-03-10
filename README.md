@@ -14,7 +14,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-## Feedback
+## 👉 Feedback
 
 If you have any feedback, please reach out to us at <a href="https://t.me/slavalovesfoxes" target="_blank">@slavalovesfoxes.</a>
 
