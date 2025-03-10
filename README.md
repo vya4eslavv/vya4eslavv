@@ -3,7 +3,8 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?vya4eslavv=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vya4eslavv=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
